@@ -24,7 +24,7 @@ C++ Questions
  20. Given: ```class A; class B : public A; class C : public A; A * a = new B;```
      What happen if I try to downcast 'a' to 'C'? ( 3 )
  21. Can I dynamic_cast a **reference**? What happen if I downcast to a wrong type? ( 3 )
- 22. What is **stdallocator**<T>? ( 4 )
+ 22. What is **std::allocator**<T>? ( 4 )
  23. What is a **functor**? Example! ( 2 )
  24. What is a **capacity** of a vector? ( 2 )
  25. What kind of inheritances do you know in C++? ( 3 )
